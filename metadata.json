@@ -1,0 +1,6 @@
+{
+  "name": "ระบบคำนวนยอดคลังเหล้า (Liquor Stock & Inventory Manager)",
+  "description": "ระบบจัดการสต็อกคลังเหล้า บันทึกรับเข้า-เบิกจ่าย และรายงานสรุปยอดคงเหลือสินค้า",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
